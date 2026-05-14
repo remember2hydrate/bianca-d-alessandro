@@ -1,2 +1,3 @@
-# bianca-d-alessandro
-Gallery website redesign for https://www.biancadalessandro.com/
+# Gallery website redesign for biancadalessandro.com
+
+Access Demo : https://remember2hydrate.github.io/bianca-d-alessandro/
